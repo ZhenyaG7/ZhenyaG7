@@ -14,7 +14,7 @@
 - 📫 How to reach me ...
 -  Portfolio: coming soon
 -  [Linkedin](https://www.linkedin.com/in/z-grigroyan/)
--  [Github](https://github.com/ZhenyaG7)
+
 
 
 <!---
